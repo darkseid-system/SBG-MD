@@ -188,22 +188,3 @@ jobs:
     mindset: "Learn • Build • Secure • Automate",
     motto: "Code is the tool. Knowledge is the power."
 };
-
----
-
-# 🚀 SBG-MD DEPLOYMENT
-
-<p align="center">
-
-<a href="https://render.com/deploy?repo=https://github.com/darkseid-system/SBG-MD">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy SBG-MD">
-</a>
-
-</p>
-
-## 🔐 SESSION GENERATOR
-
-Après avoir déployé SBG-MD, ouvrez simplement :
-
-```text
-https://TON-DOMAINE.onrender.com/session
