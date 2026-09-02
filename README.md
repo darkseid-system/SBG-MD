@@ -28,7 +28,43 @@
 </a>
 
 <br><br>
+---
 
+<div align="center">
+
+# ⚡ SBG-MD ⚡
+
+### `NEXT-GENERATION WHATSAPP BOT`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=700&color=9B5CFF&center=true&vCenter=true&width=700&lines=SBG-MD+SYSTEM+ONLINE;DARKSEID+SYSTEM;NEXT-GENERATION+WHATSAPP+BOT;AUTOMATION+%7C+BOT+%7C+API;INITIALIZING+DEPLOYMENT..." alt="SBG-MD Animation"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/SYSTEM-SBG--MD-7C3AED?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00C853?style=for-the-badge">
+<img src="https://img.shields.io/badge/POWERED%20BY-DARKSEID%20SYSTEM-9B5CFF?style=for-the-badge">
+
+</div>
+
+---
+
+# 🌀 INITIALIZE SBG-MD
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════╗
+║              DARKSEID SYSTEM                 ║
+║                                              ║
+║       ⚡ SBG-MD DEPLOYMENT SYSTEM ⚡          ║
+║                                              ║
+║   [01] FORK REPOSITORY                       ║
+║   [02] GENERATE SESSION                      ║
+║   [03] DEPLOY BOT                            ║
+║   [04] CONNECT WHATSAPP                      ║
+║                                              ║
+║          SYSTEM READY ▓▓▓▓▓▓▓▓▓▓ 100%       ║
+╚══════════════════════════════════════════════╝
 .github/workflows/bot.yml
 name: SBG-MD Bot
 
