@@ -49,22 +49,46 @@
 ---
 
 # 🌀 INITIALIZE SBG-MD
+---
 
-<div align="center">
+# 🌀 INITIALISER SBG-MD
+
+<p align="center">
+
+<a href="https://github.com/darkseid-system/SBG-MD/fork">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=9B5CFF&center=true&vCenter=true&width=600&lines=⚡+FORK+REPOSITORY+⚡;🔱+FORK+SBG-MD+NOW+🔱" alt="Fork SBG-MD">
+</a>
+
+<br><br>
+
+<a href="https://VOTRE-DOMAINE.onrender.com/session">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=600&lines=🔐+SESSION+SBG-MD+🔐;⚡+GENERATE+YOUR+SESSION+⚡;📲+CONNECT+WHATSAPP+📲" alt="Generate SBG-MD Session">
+</a>
+
+<br><br>
+
+<a href="https://render.com/deploy?repo=https://github.com/darkseid-system/SBG-MD">
+<img src="https://img.shields.io/badge/🚀%20DEPLOY%20SBG--MD-7C3AED?style=for-the-badge" alt="Deploy SBG-MD">
+</a>
+
+</p>
+
+---
+
+## ⚡ SBG-MD DEPLOYMENT SYSTEM
 
 ```text
-╔══════════════════════════════════════════════╗
-║              DARKSEID SYSTEM                 ║
-║                                              ║
-║       ⚡ SBG-MD DEPLOYMENT SYSTEM ⚡          ║
-║                                              ║
-║   [01] FORK REPOSITORY                       ║
-║   [02] GENERATE SESSION                      ║
-║   [03] DEPLOY BOT                            ║
-║   [04] CONNECT WHATSAPP                      ║
-║                                              ║
-║          SYSTEM READY ▓▓▓▓▓▓▓▓▓▓ 100%       ║
-╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║              DARKSEID SYSTEM                     ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  1] 🔱 FORK REPOSITORY                           ║
+║  2] 🔐 GENERATE SESSION                          ║
+║  3] 🚀 DEPLOY BOT                                ║
+║  4] 📲 CONNECT WHATSAPP                          ║
+║                                                  ║
+║             SYSTEM READY                         ║
+╚══════════════════════════════════════════════════╝
 .github/workflows/bot.yml
 name: SBG-MD Bot
 
