@@ -49,20 +49,24 @@
 ---
 
 # 🌀 INITIALIZE SBG-MD
----
-
-# 🌀 INITIALISER SBG-MD
+# ⚡ INITIALISEUR SBG-MD
 
 <p align="center">
 
 <a href="https://github.com/darkseid-system/SBG-MD/fork">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=9B5CFF&center=true&vCenter=true&width=600&lines=⚡+FORK+REPOSITORY+⚡;🔱+FORK+SBG-MD+NOW+🔱" alt="Fork SBG-MD">
+<img src="https://img.shields.io/badge/🍴%20FORK%20SBG--MD-181717?style=for-the-badge&logo=github" alt="Fork SBG-MD">
 </a>
 
 <br><br>
 
-<a href="https://VOTRE-DOMAINE.onrender.com/session">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=600&lines=🔐+SESSION+SBG-MD+🔐;⚡+GENERATE+YOUR+SESSION+⚡;📲+CONNECT+WHATSAPP+📲" alt="Generate SBG-MD Session">
+<a href="https://github.com/darkseid-system/SBG-MD">
+<img src="https://img.shields.io/badge/📦%20SOURCE%20SBG--MD-7C3AED?style=for-the-badge&logo=github" alt="Source SBG-MD">
+</a>
+
+<br><br>
+
+<a href="https://VOTRE-DOMAINE-RENDER.onrender.com/session">
+<img src="https://img.shields.io/badge/🔐%20GÉNÉRER%20UNE%20SESSION-SBG--MD-25D366?style=for-the-badge&logo=whatsapp" alt="Générer une session SBG-MD">
 </a>
 
 <br><br>
@@ -75,20 +79,24 @@
 
 ---
 
-## ⚡ SBG-MD DEPLOYMENT SYSTEM
+# ⚡ SYSTÈME DE DÉPLOIEMENT SBG-MD
 
 ```text
-╔══════════════════════════════════════════════════╗
-║              DARKSEID SYSTEM                     ║
-╠══════════════════════════════════════════════════╣
-║                                                  ║
-║  1] 🔱 FORK REPOSITORY                           ║
-║  2] 🔐 GENERATE SESSION                          ║
-║  3] 🚀 DEPLOY BOT                                ║
-║  4] 📲 CONNECT WHATSAPP                          ║
-║                                                  ║
-║             SYSTEM READY                         ║
-╚══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║              DARKSEID SYSTEM                 ║
+╠══════════════════════════════════════════════╣
+║                                              ║
+║  1] 🍴 FORK REPOSITORY                       ║
+║                                              ║
+║  2] 🔐 GÉNÉRER UNE SESSION                   ║
+║                                              ║
+║  3] 🚀 DEPLOY SBG-MD                         ║
+║                                              ║
+║  4] ⚙️ CONFIGURER LES VARIABLES              ║
+║                                              ║
+║  5] 🤖 DÉMARRER LE BOT                       ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 .github/workflows/bot.yml
 name: SBG-MD Bot
 
