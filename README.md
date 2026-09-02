@@ -14,6 +14,38 @@
 <a href="https://github.com/darkseid-system">
 <img src="https://img.shields.io/badge/GitHub-darkseid--system-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
+# 🔐 SBG-MD SESSION GENERATOR
+
+<p align="center">
+
+<a href="https://sbg-md-bot.onrender.com/session">
+<img src="https://img.shields.io/badge/🔐%20GENERATE%20SESSION-SBG--MD-7C3AED?style=for-the-badge" alt="Generate SBG-MD Session">
+</a>
+
+</p>
+
+### 📲 Générer votre SESSION_ID
+
+1. Cliquez sur **🔐 GENERATE SESSION**
+2. Connectez votre WhatsApp
+3. Générez votre session
+4. Copiez le `SESSION_ID`
+5. Ajoutez-le dans les variables d'environnement de Render
+6. Redémarrez votre bot
+
+> ⚠️ Ne partagez jamais votre `SESSION_ID`.
+
+---
+
+# 🚀 DEPLOY SBG-MD
+
+<p align="center">
+
+<a href="https://render.com/deploy?repo=https://github.com/darkseid-system/SBG-MD">
+<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+
+</p>
 
 <a href="https://github.com/darkseid-system/SBG-MD">
 <img src="https://img.shields.io/badge/Project-SBG--MD-7C3AED?style=for-the-badge&logo=github" alt="SBG-MD"/>
