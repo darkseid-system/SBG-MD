@@ -15,27 +15,13 @@
 <img src="https://img.shields.io/badge/GitHub-darkseid--system-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 # 🔐 SBG-MD SESSION GENERATOR
+# 🔐 SBG-MD SESSION
 
 <p align="center">
-
-<a href="https://sbg-md-bot.onrender.com/session">
-<img src="https://img.shields.io/badge/🔐%20GENERATE%20SESSION-SBG--MD-7C3AED?style=for-the-badge" alt="Generate SBG-MD Session">
+<a href="https://id-bot.onrender.com/session">
+<img src="https://img.shields.io/badge/🔐%20GENERATE%20SESSION-SBG--MD-7C3AED?style=for-the-badge" alt="Generate Session">
 </a>
-
 </p>
-
-### 📲 Générer votre SESSION_ID
-
-1. Cliquez sur **🔐 GENERATE SESSION**
-2. Connectez votre WhatsApp
-3. Générez votre session
-4. Copiez le `SESSION_ID`
-5. Ajoutez-le dans les variables d'environnement de Render
-6. Redémarrez votre bot
-
-> ⚠️ Ne partagez jamais votre `SESSION_ID`.
-
----
 
 # 🚀 DEPLOY SBG-MD
 
