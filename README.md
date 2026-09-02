@@ -29,6 +29,58 @@
 
 <br><br>
 
+.github/workflows/bot.yml
+name: SBG-MD Bot
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: npm
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Check JavaScript syntax
+        run: |
+          node --check index.js
+          node --check setting.js
+          node --check lib/bot.js
+          node --check lib/command.js
+          node --check lib/functions.js
+          node --check lib/msg.js
+          node --check lib/status.js
+
+      - name: Start SBG-MD
+        run: npm start
+        env:
+          SESSION_ID: ${{ secrets.SESSION_ID }}
+          OWNER_NUMBER: ${{ secrets.OWNER_NUMBER }}
+          OWNER_NAME: ${{ secrets.OWNER_NAME }}
+          BOT_NAME: SBG-MD
+          STICKER_NAME: SBG-MD
+          PREFIX: .
+          MODE: private
+          PUBLIC_MODE: false
+
 <img src="https://komarev.com/ghpvc/?username=darkseid-system&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
 
 <img src="https://img.shields.io/github/followers/darkseid-system?label=FOLLOWERS&style=for-the-badge&color=6D28D9&logo=github" alt="Followers"/>
