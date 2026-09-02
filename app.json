@@ -1,0 +1,21 @@
+{
+  "name": "SBG-MD",
+  "description": "SBG-MD WhatsApp bot made by DARKSEID SYSTEM",
+  "logo": "https://i.ibb.co/spyR3qdd/SBG-MD.jpg",
+  "keywords": ["bot","SBG-MD","Darkseid-Dev"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+        "description": "Put the SBG-MD session-id here.",
+        "required": true
+    }
+},
+
+"buildpacks": [
+    {
+        "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+],
+"stack": "heroku-24"
+}
